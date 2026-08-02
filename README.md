@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 5 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
@@ -38,6 +38,7 @@
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 
 ### math
 
