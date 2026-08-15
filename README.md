@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 5 |
+| 8 | 6 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (5)
 - [math](#math) (3)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
@@ -49,6 +50,12 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/26/A%20-%20Almost%20Prime/solution.java) |
 
 ### strings
 
