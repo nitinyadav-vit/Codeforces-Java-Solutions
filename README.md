@@ -6,21 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 7 |
+| 15 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (3)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (9)
-- [math](#math) (4)
+- [implementation](#implementation) (10)
+- [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (2)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 
 ### brute force
 
@@ -28,6 +35,7 @@
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 
 ### dp
 
@@ -54,6 +62,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 
 ### math
@@ -63,6 +72,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.java) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 
 ### number theory
