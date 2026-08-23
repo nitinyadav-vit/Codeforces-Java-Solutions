@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 7 |
+| 12 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (1)
@@ -46,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
