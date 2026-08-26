@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 8 |
+| 18 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (4)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (3)
@@ -64,6 +64,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
