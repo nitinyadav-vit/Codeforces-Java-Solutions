@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 9 |
+| 23 | 9 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (4)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (16)
-- [math](#math) (7)
+- [implementation](#implementation) (17)
+- [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
@@ -68,6 +68,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
@@ -81,6 +82,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ny862571-hash/Codeforces-Java-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
